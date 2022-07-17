@@ -1,3 +1,4 @@
 This is test file A
 addition 1
 addition 2
+addition 3
